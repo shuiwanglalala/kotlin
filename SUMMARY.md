@@ -28,7 +28,7 @@
     + [委托属性](委托属性.md)
   * 函数和Lamdba表达式
     + [函数](函数.md)
-    + [高阶函数与 lambda 表达式](高阶函数与 lambda 表达式.md)
+    + [高阶函数与 lambda 表达式](高阶函数与lambda表达式.md)
     + [内联函数](内联函数.md)
   * 集合
     * [集合概述](集合概述.md)
@@ -39,16 +39,16 @@
     * [集合操作概述](集合操作概述.md)
     * [集合转换](集合转换.md)
     * [过滤](过滤.md)
-    * [plus 与 minus 操作符](plus 与 minus 操作符.md)
+    * [plus 与 minus 操作符](plus与minus操作符.md)
     * [分组](分组.md)
     * [取集合的一部分](取集合的一部分.md)
     * [取单个元素](取单个元素.md)
     * [Kotlin排序](Kotlin排序.md)
     * [聚合操作](集合聚合操作.md)
     * [集合写操作](集合写操作.md)
-    * [List 相关操作](List 相关操作.md)
-    * [Set 相关操作](Set 相关操作.md)
-    * [Map 相关操作](Map 相关操作.md)
+    * [List 相关操作](List相关操作.md)
+    * [Set 相关操作](Set相关操作.md)
+    * [Map 相关操作](Map相关操作.md)
   * 协程
     * [协程基础](协程基础.md)
     * [取消与超时](取消与超时.md)
@@ -58,8 +58,8 @@
     * [异常处理与监督](异常处理与监督.md)
     * blog
       * [扔物线协程](扔物线协程.md)
-      * [一文快速入门 Kotlin 协程](一文快速入门 Kotlin 协程.md)
-      * [理解 Kotlin 的 suspend 函数](理解 Kotlin 的 suspend 函数.md)
+      * [一文快速入门 Kotlin 协程](一文快速入门Kotlin协程.md)
+      * [理解 Kotlin 的 suspend 函数](理解Kotlin的suspend函数.md)
   * 更多语言结构
     * [解构声明](解构声明.md)
     * [类型检测与转换](类型检测与转换.md)
