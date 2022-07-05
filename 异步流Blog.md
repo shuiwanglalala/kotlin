@@ -1,6 +1,4 @@
-# 异步流Blog
-
-## [初识 Kotlin Flow](https://blog.yujinyan.me/posts/kotlin-flow-introduction/)
+[初识 Kotlin Flow](https://blog.yujinyan.me/posts/kotlin-flow-introduction/)
 
 ### Flow：可以 suspend 的 Sequence
 
@@ -14,7 +12,4 @@
 
 注意，**Flow 禁止的是在不同的协程 emit 数据**，并不是说 Flow 块中不能切换 Context
 
-## Lib
-
-https://github.com/ReactiveCircus/FlowBinding
-
+[GitHub - MindorksOpenSource/Kotlin-Flow-Android-Examples: Kotlin Flow Android Examples - How to use it in Android Project](https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples)
